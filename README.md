@@ -8,7 +8,7 @@
 
 Welcome to **DevOps Interview Questions & Answers** – your one-stop destination for mastering **DevOps, Cloud, and SRE interviews**! 🚀  
 
-This repository contains **550+ carefully curated interview questions** with detailed answers, covering **all major DevOps tools, cloud platforms, and best practices**. Whether you're a **beginner preparing for your first DevOps job** or an **experienced engineer aiming for top-tier roles**, this resource will help you **understand core concepts, ace technical interviews, and build confidence**.  
+This repository contains **1100+ carefully curated interview questions** with detailed answers, covering **all major DevOps tools, cloud platforms, and best practices**. Whether you're a **beginner preparing for your first DevOps job** or an **experienced engineer aiming for top-tier roles**, this resource will help you **understand core concepts, ace technical interviews, and build confidence**.  
 
 We cover:  
 ✅ **DevOps Fundamentals** – CI/CD, Automation, Infrastructure as Code (IaC)  
@@ -18,6 +18,8 @@ We cover:
 ✅ **Monitoring & Logging** – Prometheus, Grafana, ELK Stack  
 ✅ **Networking & Security** – DNS, Load Balancing, SSL, Firewalls  
 ✅ **Scripting & Configuration Management** – Ansible, Terraform, Bash, Python  
+✅ **Linux & System Administration** – Commands, Services, Security, Troubleshooting  
+✅ **Git & Version Control** – Repositories, Branching, Merging, Pull Requests  
 ✅ **DevOps Interview Scenarios & Real-World Problems**  
 ✅ **PDFs & Study Docs** – Downloadable guides, cheat sheets & interview prep materials  
 
@@ -52,6 +54,8 @@ We cover:
 ✅ **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, New Relic  
 ✅ **Networking & Security**: Firewalls, Load Balancers, IAM, SSL/TLS  
 ✅ **Scripting & Automation**: Bash, Python, YAML, Groovy  
+✅ **Linux & System Administration**: Commands, Services, Security, Troubleshooting  
+✅ **Version Control**: Git, GitHub, GitLab, Branching Strategies  
 ✅ **DevOps Best Practices & Real-World Scenarios**  
 
 📜 **Currently, the repository contains over 550+ handpicked DevOps questions!**  
@@ -76,6 +80,8 @@ We have **organized the questions based on DevOps tools and concepts**:
  ├── 📁 monitoring-logging/         # Prometheus, Grafana, ELK Stack  
  ├── 📁 networking-security/        # IAM, Firewalls, Load Balancers  
  ├── 📁 automation-scripting/       # Bash, Python, YAML, Groovy  
+ ├── 📁 linux-system-admin/         # Linux & System Administration  
+ ├── 📁 version-control/            # Git, GitHub, GitLab, Bitbucket  
  ├── 📁 best-practices/             # Real-world scenarios & case studies  
  ├── 📁 mock-interviews/            # Mock interview questions and solutions  
  ├── 📁 cheat-sheets/               # Quick reference guides  
@@ -99,6 +105,8 @@ We have **organized the questions based on DevOps tools and concepts**:
 | **Prometheus, ELK Stack**      | `monitoring-logging/` | [View Questions](monitoring-logging/README.md) |  
 | **IAM, Security, Networking**  | `networking-security/` | [View Questions](networking-security/README.md) |  
 | **Scripting & Automation**     | `automation-scripting/` | [View Questions](automation-scripting/README.md) |  
+| **Linux & System Admin**       | `linux-system-admin/` | [View Questions](linux-system-admin/README.md) |  
+| **Git & Version Control**      | `version-control/` | [View Questions](version-control/README.md) |  
 | **Mock Interviews & Scenarios**| `mock-interviews/` | [View Questions](mock-interviews/README.md) |  
 | **Cheat Sheets**               | `cheat-sheets/` | [View Questions](cheat-sheets/README.md) |  
 | **DevOps Interview Q&A PDF**               | `docs/` | [Download](docs/README.md) |
